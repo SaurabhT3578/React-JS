@@ -1,0 +1,22 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "React JS project by saurabh",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaurabhT3578/React-JS.git"
+  },
+  "author": "Saurabh Tapkir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaurabhT3578/React-JS/issues"
+  },
+  "homepage": "https://github.com/SaurabhT3578/React-JS#readme",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
